@@ -1,4 +1,4 @@
-# Using Dask on large datafiile
+# Using Dask on large datafile
 
 In this repository, I used the Python package **Dask** on a 20GB data file to find the 3 richest person in database.
 
